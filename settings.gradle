@@ -1,0 +1,2 @@
+include ':app', ':http_lib'
+rootProject.name='MyLibProject'
