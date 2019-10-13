@@ -1,2 +1,2 @@
-include ':app', ':http_lib'
+include ':app', ':http_lib', ':banner_lib'
 rootProject.name='MyLibProject'
